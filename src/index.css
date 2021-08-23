@@ -1,15 +1,17 @@
 .heading{
-  background-color: grey;
   text-align: center;
   margin: 0% 0%;
-  padding-top: 2rem;
+  padding-top: 20rem;
   padding-bottom: 2rem;
 }
 
 .divi_style{
-  margin: auto;
-width: 60%;
-border: 5px solid grey;
+margin: 0% 45%;
+width: 10%;
+border: 5px solid rgb(241, 5, 45);
 padding: 10px;
 text-align: center;
+background-color:pink;
+cursor: pointer;
 }
+

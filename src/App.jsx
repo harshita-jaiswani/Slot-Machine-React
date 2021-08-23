@@ -1,45 +1,19 @@
-import React from "react";
+import React, { useState } from "react";
 
-function Slot(props)
-{
-    let{x,y,z}=props;
 
-if(x===y && y===z)
-{
-    return(
-        <>
-   <div className="divi_style">
-    <h1>{x} {y} {z}</h1>
-    <h1>This is Matching</h1>
-   
-   </div>
-       </>
-    )
-}
-
-else{
-    return(
-        <>
-   <div className="divi_style">
-    <h1>{x} {y} {z}</h1>
-    <h1>This is not Matching</h1>
-   
-   </div>
-       </>
-    )
-}
-
-}
 
 function App()
 {
-   return <>
-       <h1 className="heading"> 🎰  Welcome to <span style={{fontWeight: "bold"}}>Slot Machine Game 🎰</span> </h1>
-   <br/>
-   <Slot x='😄' y='😄' z='😄'/>
-   <Slot x='💗' y='😄' z='🕹️' />
-   <Slot x='🌵' y='😄' z='😄' />
-   <Slot x='🐈' y='🐈' z='🐈' />
+    const state = useState();
+    const [count, setCount] = useState(0);
+    function IncNum(){
+         setCount(count + 1); 
+    }
+
+
+    return <>
+       <h1 className="heading">{count}</h1>
+       <button className="divi_style" onClick={IncNum}>CLICK ME</button>
    
    </>
 }
