@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.fa0cf4a4.chunk.css",
-    "main.js": "/static/js/main.faad217b.chunk.js",
-    "main.js.map": "/static/js/main.faad217b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.dfae288a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.dfae288a.js.map",
-    "static/js/2.e43fe813.chunk.js": "/static/js/2.e43fe813.chunk.js",
-    "static/js/2.e43fe813.chunk.js.map": "/static/js/2.e43fe813.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.fa0cf4a4.chunk.css.map": "/static/css/main.fa0cf4a4.chunk.css.map",
-    "static/js/2.e43fe813.chunk.js.LICENSE.txt": "/static/js/2.e43fe813.chunk.js.LICENSE.txt"
+    "main.css": "/Slot-Machine-React/static/css/main.fa0cf4a4.chunk.css",
+    "main.js": "/Slot-Machine-React/static/js/main.faad217b.chunk.js",
+    "main.js.map": "/Slot-Machine-React/static/js/main.faad217b.chunk.js.map",
+    "runtime-main.js": "/Slot-Machine-React/static/js/runtime-main.755e22ce.js",
+    "runtime-main.js.map": "/Slot-Machine-React/static/js/runtime-main.755e22ce.js.map",
+    "static/js/2.e43fe813.chunk.js": "/Slot-Machine-React/static/js/2.e43fe813.chunk.js",
+    "static/js/2.e43fe813.chunk.js.map": "/Slot-Machine-React/static/js/2.e43fe813.chunk.js.map",
+    "index.html": "/Slot-Machine-React/index.html",
+    "static/css/main.fa0cf4a4.chunk.css.map": "/Slot-Machine-React/static/css/main.fa0cf4a4.chunk.css.map",
+    "static/js/2.e43fe813.chunk.js.LICENSE.txt": "/Slot-Machine-React/static/js/2.e43fe813.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dfae288a.js",
+    "static/js/runtime-main.755e22ce.js",
     "static/js/2.e43fe813.chunk.js",
     "static/css/main.fa0cf4a4.chunk.css",
     "static/js/main.faad217b.chunk.js"
